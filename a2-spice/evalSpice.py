@@ -1,0 +1,2 @@
+def evalSpice(filename):
+    return ({}, {})
